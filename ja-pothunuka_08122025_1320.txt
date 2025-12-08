@@ -1,1 +1,2 @@
-git add ja-pothunuka_08122025_1320.txt
+This is lecture 7 task 3
+In this task 3 we have to create a copy of my repository by forking it
